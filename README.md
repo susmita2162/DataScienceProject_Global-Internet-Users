@@ -8,7 +8,7 @@ As part of this project, I am investigating the following questions and I have d
 
 1. How the general trends of internet usage(via mobile phone and broadband subscriptions) has been over the years from 1980 to 1920 for the countries? Are we observing a general pattern of user growth based on the telecommunication mode?
 
-Visualization - ![Alt Text](C:\Users\SUSMITA\OneDrive\Documents\GitHub\DataScienceProject_Global-Internet-Users\images\Vis1.png)
+Visualization - ![Time Series Visualization depicting internet usage for different telecommunication modes](images\Vis1.png)
 
 
 2. What does the relationship between the mobile phone subscriptions and internet users looks like over the years? Are they strongly correlated to each other? Does increase in mobile phone subscriptions has an effect on the usage of the internet?
