@@ -13,12 +13,27 @@ Visualization - ![Time Series Visualization depicting internet usage for differe
 
 2. What does the relationship between the mobile phone subscriptions and internet users looks like over the years? Are they strongly correlated to each other? Does increase in mobile phone subscriptions has an effect on the usage of the internet?
 
+Visualization - ![Scatterplot Visualization depicting cellular subscriptions vs internet users](images/Vis2.png)
+
+
 3. Similarly what does the relationship between the fixed broadband subscriptions and internet users looks like over the years? Are they strongly correlated to each other? Does increase in fixed broadband subscriptions has an effect on the usage of the internet?
+
+Visualization - ![Scatterplot Visualization depicting broadband subscriptions vs internet users](images/Vis3.png)
+
+Visualization - ![Progressive Line Charts Visualization depicting cellular  and broadband subscriptions vs internet users](images/Vis2_3.png)
+
+
 
 4. What is the average number of people using different modes of internet connections and how is it varying from 1980 to 2020?
 
+Visualization - ![World map Visualization depicting number of internet users from 1980 to 2020](images/Vis4.png)
+
+
 5. Which countries has the most number of internet users in the last 10 years? How much percentage population of internet users are being occupied by the top 10 countries?
+
+Visualization - ![Animated Bar chart Visualization depicting top ten countries with most number of internet users from 2010 to 2020](images/Vis5.png)
+
+I have provided additional visualizations as well as part of the project to understand the trends of internet usage across the world in the past four decades. 
 
 Dataset link: https://www.kaggle.com/datasets/ashishraut64/internet-users
 
-These are the visualizations I have depicted for the above research questions 
