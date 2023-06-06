@@ -1,5 +1,3 @@
-# Course Blog Template
-
 I have used RStudio to work on this project. 
 
 The dataset consists of country-wise internet users from 1980 to 2020. Each row in the dataset represents- for a particular country and an year, the mobile phone subscription per 100 people along with percentage of internet users using the internet, number of people using the internet and number of fixed broadband subscriptions per 100 people.
