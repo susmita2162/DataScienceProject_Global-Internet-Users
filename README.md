@@ -34,4 +34,6 @@ Visualization - ![Animated Bar chart Visualization depicting top ten countries w
 I have provided additional visualizations as well as part of the project to understand the trends of internet usage across the world in the past four decades. 
 
 Dataset link: https://www.kaggle.com/datasets/ashishraut64/internet-users
+Project link: https://susmita2162.github.io/DataScienceProject_Global-Internet-Users/ 
+(PS: Github is not supporting to display dynamic visualizations when hosted.)
 
